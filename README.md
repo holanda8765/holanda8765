@@ -58,14 +58,6 @@ I'm still building my experience, but I'm committed to continuous learning, hand
 
 ## Contribution Snake
 
-![GitHub Snake](https://raw.githubusercontent.com/SEU_USUARIO/SEU_USUARIO/output/github-snake-dark.svg)
+![GitHub Snake](https://raw.githubusercontent.com/holanda8765/holanda8765/output/github-snake-dark.svg)
 
 ---
-
-## Let's Connect!
-
-I'm always interested in learning new technologies, developing projects, and connecting with people who share an interest in programming and technology.
-
-[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/holanda8765)
-
-
