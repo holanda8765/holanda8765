@@ -46,16 +46,6 @@ I'm still building my experience, but I'm committed to continuous learning, hand
 
 ---
 
-## Contributions
-
-<div align="center">
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=holanda8765&theme=tokyo-night" width="100%" alt="GitHub Activity Graph"/>
-
-</div>
-
----
-
 ## Contribution Snake
 
 ![GitHub Snake](https://raw.githubusercontent.com/holanda8765/holanda8765/output/github-snake-dark.svg)
