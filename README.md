@@ -34,13 +34,13 @@ I'm still building my experience, but I'm committed to continuous learning, hand
 
 <div align="center">
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=SEU_USUARIO&show_icons=true&theme=tokyonight&hide_border=true"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=holanda8765&show_icons=true&theme=tokyonight&hide_border=true"/>
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SEU_USUARIO&layout=compact&theme=tokyonight&hide_border=true"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=holanda8765&layout=compact&theme=tokyonight&hide_border=true"/>
 
 <br>
 
-<img width="70%" src="https://streak-stats.demolab.com?user=SEU_USUARIO&theme=tokyonight&hide_border=true"/>
+<img width="70%" src="https://streak-stats.demolab.com?user=holanda8765&theme=tokyonight&hide_border=true"/>
 
 </div>
 
@@ -50,7 +50,7 @@ I'm still building my experience, but I'm committed to continuous learning, hand
 
 <div align="center">
 
-![Contribution Graph](https://github-readme-activity-graph.vercel.app/graph?username=YOUR_USERNAME&theme=tokyo-night&hide_border=true)
+![Contribution Graph](https://github-readme-activity-graph.vercel.app/graph?username=holanda8765&theme=tokyo-night&hide_border=true)
 
 </div>
 
